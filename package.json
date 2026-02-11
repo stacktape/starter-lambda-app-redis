@@ -1,0 +1,17 @@
+{
+  "name": "lambda-app-redis",
+  "version": "1.0.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/stacktape/stacktape/issues"
+  },
+  "author": "Stacktape team <info@stacktape.com> (https://stacktape.com)",
+  "scripts": {},
+  "dependencies": {
+    "ioredis": "^5.9.2"
+  },
+  "devDependencies": {
+    "aws-lambda": "^1.0.7",
+    "stacktape": "^3.4.0"
+  }
+}
